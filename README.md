@@ -4,8 +4,7 @@ A collection of LeetCode questions!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Topics
-|  |
-| ------- |
+- SQL
 - Python
 ## Databases
 |  |
